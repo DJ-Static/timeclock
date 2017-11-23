@@ -100,6 +100,7 @@ ________
 
 This software and changes made are licensed under the GNU GENERAL PUBLIC LICENSE 2 as found in docs/LICENSE
 
-##WARNING!
-________
-Ihave no idea what I'm doing.. Just so you know 
+Warning!!
+========================
+
+I have no idea what I'm doing.. Just so you know 
