@@ -99,3 +99,7 @@ Admin level access and reports level access are completely separate from each ot
 ________
 
 This software and changes made are licensed under the GNU GENERAL PUBLIC LICENSE 2 as found in docs/LICENSE
+
+##WARNING!
+________
+Ihave no idea what I'm doing.. Just so you know 
